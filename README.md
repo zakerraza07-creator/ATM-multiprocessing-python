@@ -14,5 +14,4 @@ Concepts used:
 - Lock
 - Value
 
-How to run:
-python atm.py
+
